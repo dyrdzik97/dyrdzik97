@@ -1,6 +1,6 @@
 ### Hi there, I'm Adam 👋
 
-I'm frontend developer with nearly 4 years of experience. I really like working with React.js, Next.js and Typescript. Thanks to this technologies I can create optimized apps with. I improving my programming skills by new challenges and opportunities to be better and better. I'm interested in UX and it helps me to better understand frontend need. I want to grow as a frontend developer and tech expert!
+I'm frontend developer with nearly 4 years of experience. I really like working with React.js, Next.js and Typescript. Thanks to this technologies I can create optimized apps with. I improving my programming skills by new challenges and opportunities to be better and better. I'm interested in UX and it helps me to better understand frontend needs. I want to grow as a frontend developer and tech expert!
 
 <img width="831" alt="image" src="https://github.com/dyrdzik97/dyrdzik97/assets/62518046/39bc7e5e-ff3b-4639-a289-57a49d7600f5">
 
